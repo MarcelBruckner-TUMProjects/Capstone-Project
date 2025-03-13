@@ -1,0 +1,8 @@
+Height=378
+Width=486
+NrIn=27
+NrOut=9
+Keys=18
+StaticTraps=27
+DynamicTraps=18
+Density=10.703079443139302
